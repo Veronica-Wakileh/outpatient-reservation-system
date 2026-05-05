@@ -1,0 +1,7 @@
+D001|Dr. Shahd Sbaih|Cardiology|Sun,Mon,Wed|08:00|14:00
+D002|Dr. Veronica Wakileh|Pediatrics|Mon,Tue,Thu|10:00|16:00
+D003|Dr. Nadeen Sbaih|Cardiology|Sun,Tue,Fri|09:00|15:00
+D004|Dr. Duha Shehadeh|Orthopedics|Mon,Wed,Thu|08:30|13:30
+D005|Dr. Duha Imad|Pediatrics|Sun,Tue,Thu|11:00|17:00
+D006|Dr. Lina Khalil|Dermatology|Tue,Thu,Fri|09:00|14:00
+D007|Dr. Omar Nasser|Orthopedics|Sun,Wed,Fri|09:00|16:00
